@@ -17,6 +17,3 @@ Thank you to Professor Rosetti for intial inspiration for the website page (http
 Code for the "NFTS" section was bootstrapped and modified from https://getbootstrap.com/docs/4.0/examples/album/.
 
 Thank you also to classmate Paul Kassar for consultations and assistance throughout the implementation process. Paul made himself available on multiple occassions to troubleshoot and fix code errors. 
-
-
-
